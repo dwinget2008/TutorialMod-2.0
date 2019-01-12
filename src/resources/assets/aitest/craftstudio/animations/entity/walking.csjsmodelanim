@@ -1,0 +1,100 @@
+{
+  "title": "Walking",
+  "duration": 48,
+  "holdLastKeyframe": false,
+  "nodeAnimations": {
+    "RArm": {
+      "position": {
+      },
+      "offsetFromPivot": {
+      },
+      "size": {
+      },
+      "rotation": {
+        "0": [ 0, 0, 0 ],
+        "8": [ 0, 0, 0 ]
+      },
+      "stretch": {
+      }
+    },
+    "RLeg": {
+      "position": {
+      },
+      "offsetFromPivot": {
+      },
+      "size": {
+      },
+      "rotation": {
+        "0": [ 0, 0, 0 ],
+        "16": [ -24.34099, 0, 0 ],
+        "32": [ 9.48, 0, 0 ],
+        "48": [ 0, 0, 0 ]
+      },
+      "stretch": {
+      }
+    },
+    "RLegLower": {
+      "position": {
+      },
+      "offsetFromPivot": {
+      },
+      "size": {
+      },
+      "rotation": {
+        "0": [ 0, 0, 0 ],
+        "16": [ 7.54, 0, 0 ],
+        "32": [ 14.54, 0, 0 ],
+        "48": [ 0, 0, 0 ]
+      },
+      "stretch": {
+      }
+    },
+    "LLeg": {
+      "position": {
+      },
+      "offsetFromPivot": {
+      },
+      "size": {
+      },
+      "rotation": {
+        "0": [ 0, 0, 0 ],
+        "16": [ 9.48, 0, 0 ],
+        "32": [ -24.34, 0, 0 ],
+        "48": [ 0, 0, 0 ]
+      },
+      "stretch": {
+      }
+    },
+    "LLegLower": {
+      "position": {
+      },
+      "offsetFromPivot": {
+      },
+      "size": {
+      },
+      "rotation": {
+        "0": [ 0, 0, 0 ],
+        "16": [ 14.54, 0, 0 ],
+        "32": [ 19.36, 0, 0 ],
+        "48": [ 0, 0, 0 ]
+      },
+      "stretch": {
+      }
+    },
+    "Body": {
+      "position": {
+      },
+      "offsetFromPivot": {
+      },
+      "size": {
+      },
+      "rotation": {
+        "0": [ 0, 0, 0 ],
+        "20": [ 0, 0, 0 ],
+        "40": [ 0, 0, 0 ]
+      },
+      "stretch": {
+      }
+    }
+  }
+}
